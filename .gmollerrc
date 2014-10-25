@@ -1,0 +1,7 @@
+set -o vi
+alias la='ls -lha'
+alias c='clear'
+alias update='. ~/.bashrc'
+alias top="top -o cpu"
+alias topm="top -o rsize"
+alias .vim="vim ~/.vimrc"
